@@ -1,7 +1,0 @@
-# Gitignore
-
-# This file tells Git which files (or patterns) it should ignore.
-
-*.class
-*.log
-*.tmp

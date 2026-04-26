@@ -1,6 +1,0 @@
-# Gitpod Configuration
-
-# This file configures Gitpod for the project.
-image:
-  file: .gitpod.yml
-
