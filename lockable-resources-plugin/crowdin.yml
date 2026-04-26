@@ -1,0 +1,4 @@
+# Crowdin Configuration
+
+# This file contains settings for Crowdin integration.
+project_id: YOUR_PROJECT_ID
